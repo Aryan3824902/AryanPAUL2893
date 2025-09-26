@@ -1,4 +1,4 @@
-public class Geeks {
+public class StaticMethod {
     // static variable
      static int a = 40;
     // instance variable
@@ -24,4 +24,5 @@ public class Geeks {
         Geeks.staticDisplay();
         staticDisplay();
     }
+
 }
